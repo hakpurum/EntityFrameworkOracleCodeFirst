@@ -1,0 +1,16 @@
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\bin\Debug\EfOracleCodeFirstConsole.exe.config
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\bin\Debug\EfOracleCodeFirstConsole.exe
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\bin\Debug\EfOracleCodeFirstConsole.pdb
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\bin\Debug\EntityFramework.dll
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\bin\Debug\EntityFramework.xml
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\obj\Debug\EfOracleCodeFirstConsole.csprojResolveAssemblyReference.cache
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\obj\Debug\EfOracleCodeFirstConsole.csproj.CoreCompileInputs.cache
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\obj\Debug\EfOracleCodeFirstConsole.exe
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\obj\Debug\EfOracleCodeFirstConsole.pdb
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\obj\Debug\EfOracleCodeFirstConsole.Migrations.InitialCreate.resources
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\obj\Debug\EfOracleCodeFirstConsole.csproj.GenerateResource.Cache
+D:\Store\VisualStudio\2017\Project\EFOracleCodeFirst\EfOracleCodeFirstConsole\obj\Debug\EfOracleCodeFirstConsole.Migrations.YeniKolonTest5.resources
